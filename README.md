@@ -1,5 +1,7 @@
 # vue-compositionapi
 
+Click this to View [sites after deployed](https://faizalanwar-vuecompositionapi.netlify.app).
+
 ## Project setup
 ```
 npm install
